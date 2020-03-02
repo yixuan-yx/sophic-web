@@ -1,0 +1,712 @@
+[23-Aug-2019 02:36:35 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 02:36:35 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 02:36:35 UTC] PHP Fatal error:  require(): Failed opening required '..\vendor\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 02:39:31 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 02:39:31 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 02:39:31 UTC] PHP Fatal error:  require(): Failed opening required '..\vendor\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 02:39:35 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 02:39:35 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 02:39:35 UTC] PHP Fatal error:  require(): Failed opening required '..\vendor\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 09:46:57 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 09:46:57 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 09:46:57 UTC] PHP Fatal error:  require(): Failed opening required '..\vendor\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 09:59:21 UTC] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 09:59:21 UTC] PHP Warning:  include_once(FCPATH..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 09:59:21 UTC] PHP Warning:  include_once(): Failed opening 'FCPATH..\vendor\PHPMailer\src\Exception.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 09:59:21 UTC] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 09:59:21 UTC] PHP Warning:  include_once(FCPATH..\vendor\PHPMailer\src\PHPMailer.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 09:59:21 UTC] PHP Warning:  include_once(): Failed opening 'FCPATH..\vendor\PHPMailer\src\PHPMailer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 09:59:21 UTC] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/sophica1/public_html/contactform/contactform.php on line 8
+[23-Aug-2019 09:59:21 UTC] PHP Warning:  include_once(FCPATH..\vendor\PHPMailer\src\SMTP.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 8
+[23-Aug-2019 09:59:21 UTC] PHP Warning:  include_once(): Failed opening 'FCPATH..\vendor\PHPMailer\src\SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 8
+[23-Aug-2019 09:59:21 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/sophica1/public_html/contactform/contactform.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sophica1/public_html/contactform/contactform.php on line 14
+[23-Aug-2019 10:06:05 UTC] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:06:05 UTC] PHP Warning:  include_once(FCPATHvendor/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:06:05 UTC] PHP Warning:  include_once(): Failed opening 'FCPATHvendor/PHPMailer/src/Exception.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:06:05 UTC] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 10:06:05 UTC] PHP Warning:  include_once(FCPATHvendor/PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 10:06:05 UTC] PHP Warning:  include_once(): Failed opening 'FCPATHvendor/PHPMailer/src/PHPMailer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 10:06:05 UTC] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/sophica1/public_html/contactform/contactform.php on line 8
+[23-Aug-2019 10:06:05 UTC] PHP Warning:  include_once(FCPATHvendor/PHPMailer/src/SMTP.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 8
+[23-Aug-2019 10:06:05 UTC] PHP Warning:  include_once(): Failed opening 'FCPATHvendor/PHPMailer/src/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 8
+[23-Aug-2019 10:06:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/sophica1/public_html/contactform/contactform.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sophica1/public_html/contactform/contactform.php on line 14
+[23-Aug-2019 10:07:15 UTC] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:07:15 UTC] PHP Warning:  include_once(FCPATHPHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:07:15 UTC] PHP Warning:  include_once(): Failed opening 'FCPATHPHPMailer/src/Exception.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:07:15 UTC] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 10:07:15 UTC] PHP Warning:  include_once(FCPATHPHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 10:07:15 UTC] PHP Warning:  include_once(): Failed opening 'FCPATHPHPMailer/src/PHPMailer.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 10:07:15 UTC] PHP Warning:  Use of undefined constant FCPATH - assumed 'FCPATH' (this will throw an Error in a future version of PHP) in /home/sophica1/public_html/contactform/contactform.php on line 8
+[23-Aug-2019 10:07:15 UTC] PHP Warning:  include_once(FCPATHPHPMailer/src/SMTP.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 8
+[23-Aug-2019 10:07:15 UTC] PHP Warning:  include_once(): Failed opening 'FCPATHPHPMailer/src/SMTP.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 8
+[23-Aug-2019 10:07:15 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\PHPMailer' not found in /home/sophica1/public_html/contactform/contactform.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/sophica1/public_html/contactform/contactform.php on line 14
+[23-Aug-2019 10:14:49 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 10:14:49 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 10:14:49 UTC] PHP Fatal error:  require(): Failed opening required '..\vendor\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 10:17:00 UTC] PHP Warning:  require_once(/vendor/PHPMailer/src/Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 10:17:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/vendor/PHPMailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 7
+[23-Aug-2019 10:19:51 UTC] PHP Warning:  require(\home\sophica1\public_html\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:19:51 UTC] PHP Warning:  require(\home\sophica1\public_html\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:19:51 UTC] PHP Fatal error:  require(): Failed opening required '\home\sophica1\public_html\vendor\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:20:45 UTC] PHP Warning:  require(..\home\sophica1\public_html\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:20:45 UTC] PHP Warning:  require(..\home\sophica1\public_html\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:20:45 UTC] PHP Fatal error:  require(): Failed opening required '..\home\sophica1\public_html\vendor\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:23:00 UTC] PHP Warning:  Use of undefined constant PATH - assumed 'PATH' (this will throw an Error in a future version of PHP) in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:23:00 UTC] PHP Warning:  require(PATHvendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:23:00 UTC] PHP Warning:  require(PATHvendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[23-Aug-2019 10:23:00 UTC] PHP Fatal error:  require(): Failed opening required 'PATHvendor\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[26-Aug-2019 01:55:16 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[26-Aug-2019 01:55:16 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[26-Aug-2019 01:55:16 UTC] PHP Fatal error:  require(): Failed opening required '..\vendor\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[26-Aug-2019 01:55:41 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[26-Aug-2019 01:55:41 UTC] PHP Warning:  require(..\vendor\PHPMailer\src\Exception.php): failed to open stream: No such file or directory in /home/sophica1/public_html/contactform/contactform.php on line 6
+[26-Aug-2019 01:55:41 UTC] PHP Fatal error:  require(): Failed opening required '..\vendor\PHPMailer\src\Exception.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/sophica1/public_html/contactform/contactform.php on line 6
+[26-Aug-2019 01:59:15 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: testing\r\n...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 02:10:51 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasda\r\nEm...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 02:10:58 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasda\r\nEm...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 02:20:35 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasdadas\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 02:20:46 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasdadas\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 02:21:04 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: asda\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 02:21:07 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: asda\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 02:21:38 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: asdasd\r\nE...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 02:21:47 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: asdasd\r\nE...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 02:26:49 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: tesasd\r\nE...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 02:26:56 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: tesasd\r\nE...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 02:27:39 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: asdasd\r\nE...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:21:16 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:21:23 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:21:26 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:21:27 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:33:07 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:33:18 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:35:24 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:36:58 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:37:03 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:38:18 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:38:23 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:42:25 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: asdasd\r\nE...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:42:37 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:42:39 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:43:46 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasda\r\nEm...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:43:52 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasda\r\nEm...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:43:52 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasda\r\nEm...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:43:53 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasda\r\nEm...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:43:55 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasda\r\nEm...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:47:50 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:47:56 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:50:57 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasdaas\r\n...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:51:02 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasdaas\r\n...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:51:05 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: dasdaas\r\n...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:54:12 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:54:18 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[26-Aug-2019 03:54:19 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 26 A...', 'Name: christoph...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[30-Aug-2019 19:15:48 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Fri, 30 A...', 'Name: privet ht...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[01-Sep-2019 04:16:29 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 1 Se...', 'Name: Allen Ho\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[01-Sep-2019 04:16:39 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 1 Se...', 'Name: Allen Ho\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[01-Sep-2019 04:16:45 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 1 Se...', 'Name: Allen Ho\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[01-Sep-2019 04:16:45 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 1 Se...', 'Name: Allen Ho\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[01-Sep-2019 04:16:46 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 1 Se...', 'Name: Allen Ho\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[01-Sep-2019 04:16:46 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 1 Se...', 'Name: Allen Ho\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[01-Sep-2019 04:16:46 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Sun, 1 Se...', 'Name: Allen Ho\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[04-Sep-2019 07:17:20 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 4 Se...', 'Name: yoyo\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[04-Sep-2019 07:17:26 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 4 Se...', 'Name: yoyo\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[04-Sep-2019 07:17:32 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 4 Se...', 'Name: yoyo\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[04-Sep-2019 07:17:51 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 4 Se...', 'Name: yoyo\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[04-Sep-2019 07:17:51 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 4 Se...', 'Name: yoyo\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[23-Sep-2019 03:26:17 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 23 S...', 'Name: KT Phoon\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[23-Sep-2019 03:26:26 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 23 S...', 'Name: KT Phoon\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[23-Sep-2019 03:26:31 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 23 S...', 'Name: KT Phoon\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[23-Sep-2019 03:26:31 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 23 S...', 'Name: KT Phoon\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[23-Sep-2019 03:26:39 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 23 S...', 'Name: KT Phoon\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[23-Sep-2019 03:26:39 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 23 S...', 'Name: KT Phoon\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[23-Sep-2019 03:26:40 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 23 S...', 'Name: KT Phoon\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[23-Sep-2019 03:26:40 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 23 S...', 'Name: KT Phoon\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[23-Sep-2019 03:26:40 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 23 S...', 'Name: KT Phoon\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[23-Sep-2019 03:26:40 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 23 S...', 'Name: KT Phoon\r...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[07-Oct-2019 03:41:17 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Mon, 7 Oc...', 'Name: Roshani B...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:49:34 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:49:41 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:50:04 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:50:24 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:50:31 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:52:24 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:53:13 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:53:22 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:55:50 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:56:18 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:58:22 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:58:38 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: testdasda...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 05:58:41 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: testdasda...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 06:06:33 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 06:06:40 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 06:14:00 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
+[09-Oct-2019 06:14:07 UTC] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: SMTP Error: Could not authenticate. in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php:1960
+Stack trace:
+#0 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1774): PHPMailer\PHPMailer\PHPMailer->smtpConnect(Array)
+#1 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1516): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 9 Oc...', 'Name: test\r\nEma...')
+#2 /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php(1352): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/sophica1/public_html/contactform/contactform.php(41): PHPMailer\PHPMailer\PHPMailer->send()
+#4 {main}
+  thrown in /home/sophica1/public_html/vendor/PHPMailer/src/PHPMailer.php on line 1960
