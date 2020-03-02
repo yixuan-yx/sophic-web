@@ -1,0 +1,68 @@
+.box{
+    text-align: center;
+    box-shadow: 0 0 5px #7e7d7d;
+    position: relative;
+}
+.box {
+	cursor: pointer;
+}
+.box:before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.4);
+    opacity: 0;
+    transition: all 0.5s ease 0s;
+}
+.box:hover:before{
+    opacity: 1;
+}
+.box:after{
+    content: "";
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    bottom: 15px;
+    right: 15px;
+    border: 2px solid #fff;
+    transform: scale(0);
+    opacity: 0;
+    transition: all 1s ease 0s;
+}
+.box:hover:after{
+    opacity: 1;
+    transform: scale(1);
+}
+.box img{
+    width: 100%;
+    height: auto;
+}
+.box .box-content{
+    padding: 15px;
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    z-index: 1;
+    transform: translate(0%, -50%);
+    transition: all 1s ease 0s;
+}
+.box:hover .box-content{
+    opacity: 1;
+}
+.box .title{
+    font-size: 22px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin: 0 0 10px 0;
+}
+.box .post{
+    font-size: 15px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
